@@ -1,0 +1,17 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="45-170-233-255" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="SettingsSearchHistory" value="settings&#10;plug" />
+    <property name="TrendingPluginsSearchHistory" value="mat" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Code/DockerApi" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/Code/DockerApi" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
