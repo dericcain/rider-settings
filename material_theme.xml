@@ -5,10 +5,10 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="accentColor" value="2daae9" />
-    <option name="selectedTheme" value="nightowl" />
+    <option name="accentColor" value="82aaff" />
+    <option name="selectedTheme" value="nightowl-carbon" />
     <option name="userId" value="-5e875999:16905a2b5ae:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
