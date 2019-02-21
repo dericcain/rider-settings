@@ -4,7 +4,7 @@
     <property name="created">2019-02-20T08:11:29</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-20T08:13:45</property>
+    <property name="modified">2019-02-21T06:34:14</property>
     <property name="originalScheme">Night Owl Carbon</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -60,7 +60,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="34324a" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="1d3b53" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="444267" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212c32" />
@@ -69,7 +68,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
     <option name="VISUAL_INDENT_GUIDE" value="34324a" />
-    <option name="WHITESPACES" value="828ed5" />
+    <option name="WHITESPACES" value="474f8e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
   </colors>
   <attributes>

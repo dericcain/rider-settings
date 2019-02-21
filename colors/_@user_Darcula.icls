@@ -3,11 +3,12 @@
     <property name="created">2019-02-21T06:24:40</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-21T06:25:31</property>
+    <property name="modified">2019-02-21T06:34:14</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="7fdbca" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
@@ -16,8 +17,10 @@
     <option name="FILESTATUS_MODIFIED" value="7fdbca" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7fdbca" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="7fdbca" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="676e95" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_modifiedOutside" value="7fdbca" />
   </colors>
 </scheme>
