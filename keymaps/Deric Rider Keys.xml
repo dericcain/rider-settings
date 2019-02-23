@@ -16,8 +16,12 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickList.Quick List">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="TodoViewGroupByShowPackages" />
+  <action id="Vcs.UpdateProject" />
 </keymap>

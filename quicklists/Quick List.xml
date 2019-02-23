@@ -1,1 +1,4 @@
-<list display="Quick List" description="Handy tools" />
+<list display="Quick List" description="Handy tools">
+  <action id="osmedile.intellij.stringmanip.PopupChoiceAction" />
+  <action id="ReformatCode" />
+</list>
