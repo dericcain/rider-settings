@@ -1,5 +1,5 @@
 <application>
-  <component name="CodeLensSettings" defaultAnchor="Right">
+  <component name="CodeLensSettings">
     <enabled>
       <map />
     </enabled>
